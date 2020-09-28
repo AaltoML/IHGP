@@ -35,7 +35,7 @@ Additionally we provide a simplified C++ implementation of the GP regression cod
 
 ## Objective-C codes (iOS example app)
 
-Finally, we share the proor-of-concept iOS app source code that implements the demo in the final example in the paper. This implementation is only for reference and likely to break as Apple updates XCode. Details on the app implementation are in the README under `ios/`.
+Finally, we share the proof-of-concept iOS app source code that implements the demo in the final example in the paper. This implementation is only for reference and likely to break as Apple updates XCode. Details on the app implementation are in the README under `ios/`.
 
 ![iOS online estimation](./ios/ios.gif)
 
